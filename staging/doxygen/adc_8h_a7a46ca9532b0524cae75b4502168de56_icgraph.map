@@ -1,0 +1,19 @@
+<map id="ADC_GetChannelNumber" name="ADC_GetChannelNumber">
+<area shape="rect" id="Node000001" title=" " alt="" coords="953,56,1139,81"/>
+<area shape="rect" id="Node000002" href="$adc_8c.html#a93fa107f581c66025b2e39005d873f60" title=" " alt="" coords="696,31,905,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="940,60,905,57,906,51,940,55"/>
+<area shape="rect" id="Node000008" href="$adc_8c.html#a89c5d904d28cdeac54db375d76f3e6e1" title=" " alt="" coords="743,80,859,105"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="940,82,859,90,859,84,939,76"/>
+<area shape="rect" id="Node000003" href="$board_8c.html#ab606f4c3e5861a5bfdd8ac2abae0f911" title=" " alt="" coords="441,56,648,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="683,58,649,61,648,56,682,52"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#a4a36ed5348e397aa732d9d9f88ba8f0f" title=" " alt="" coords="231,5,393,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="472,56,370,33,372,28,473,50"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a54ddd8759bb6b8d20890ac1c684e2e3d" title=" " alt="" coords="67,31,121,56"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="427,65,121,47,122,42,428,59"/>
+<area shape="rect" id="Node000006" href="$app_2uart_8c.html#a90a2a5e38eb963bd6d98c0e8dbcca412" title=" " alt="" coords="266,107,358,132"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="473,87,359,112,358,107,471,82"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="218,32,122,43,121,38,217,26"/>
+<area shape="rect" id="Node000007" href="$app_2uart_8c.html#a8a7ad2e1f129122d1e0460e2501a3df7" title=" " alt="" coords="5,107,183,132"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="252,122,183,122,183,117,252,117"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="729,89,648,81,649,76,729,83"/>
+</map>
