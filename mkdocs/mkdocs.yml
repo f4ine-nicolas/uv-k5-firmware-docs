@@ -1,0 +1,36 @@
+site_name: Quansheng UV-K5 Firmware Docs
+site_description: Documentation about Quansheng UV-K5 Firmware reimplementation by DualTachyon
+repo_url: https://github.com/<user>/<repo>
+repo_name: <user>/<repo>
+docs_dir: docs
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.expand
+    - navigation.tabs
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - How to: howto_home.md
+  - Low level code documentation:
+      - "Documentation status":  status.md
+      - "→ Doxygen": ../doxygen/index.html 
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - codehilite
+  - def_list
+  - footnotes
+  - attr_list
+  - md_in_html
+
+plugins:
+  - search
